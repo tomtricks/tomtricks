@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm THOMAS A</h1>
 <h3 align="center">A college fresher striving for continuous progress in everything,both professionally and personally, keen to secure a role which allows me to develop all-round skills and abilities to enhance career growth.</h3>
 
-<!-- <h3 align="left">Connect with me:</h3> -->
+
 <p align="left">
 </p>
 
