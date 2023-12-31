@@ -20,3 +20,5 @@ I'm a highly motivated software professional with a strong background in develop
 Feel free to reach out if you have any questions, collaboration opportunities, or if you'd just like to connect!
 
 Let's collaborate on innovative projects and ensure high-quality software solutions together! 🚀
+
+[![An image of @tomtricks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tomtricks)](https://holopin.io/@tomtricks)
