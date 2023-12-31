@@ -1,6 +1,6 @@
 ## Hi there, I'm THOMAS! 👋
 
-I'm a highly motivated software professional with a strong background in development, always seeking new challenges to grow my knowledge and skills. With a passion for innovation and a drive for success, I am dedicated to delivering high-quality software solutions.
+I'm a highly motivated software professional with a strong background in development👨🏻‍💻, always seeking new challenges💪🏻 to grow my knowledge and skills. With a passion for innovation and a drive for success, I am dedicated to delivering high-quality software solutions.
 
 ### Skills and Expertise:
 
