@@ -14,6 +14,7 @@ I'm a highly motivated software professional with a strong background in develop
 - Continuous Integration and Deployment
 - Software Testing (Test Planning, Test Execution, Test Automation)
 
+## Contact
 - LinkedIn: [THOMAS A](https://www.linkedin.com/in/thomas-a-dev)
   
 Feel free to reach out if you have any questions, collaboration opportunities, or if you'd just like to connect!
