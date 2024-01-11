@@ -8,8 +8,8 @@ I'm a highly motivated software professional with a strong background in develop
 - Web Development
 - Object-Oriented Programming
 - Front-end Development (HTML, CSS, JavaScript)
-- Back-end Development (Node.js, Python, Java)
-- Database Management (SQL, MongoDB)
+- Back-end Development (Java, Python)
+- Database Management (SQL, MySQL, MongoDB)
 - Agile Methodologies
 - Continuous Integration and Deployment
 - Software Testing (Test Planning, Test Execution, Test Automation)
